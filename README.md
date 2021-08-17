@@ -2,12 +2,18 @@
 
 ## 👋 Intro:
 
-- 🔭 I’m a Student, a Developer and InfoSec/OSINT enthusiast.
-- 🌱 I’m currently learning Coding for OSINT.
+- 🔭 I’m an Msc Student, a Developer and InfoSec/OSINT enthusiast.
+- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on InfoSec, OSINT, Development and any combination thereof.
-- 💬 Ask me about Development, Development Security, IoT security and IoT/Mobile Infrastructure.
+- 💬 Ask me about Development, Development Security, IoT security and OSINT.
 - 😄 Pronouns: He/They/Them
 - ⚡ Fun fact: I enjoy (chili) coffee and cheese.
+
+## 🧰 Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+Learning: ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## 🤖 Projects:
 
@@ -38,7 +44,11 @@ All talks of 2021 are available [here](https://www.youtube.com/playlist?list=PLU
 
 ## 📫 How to reach me:
 
-[@AtomicNicos on Twitter](https://twitter.com/AtomicNicos) or [atomicnicos@gmail.com](mailto://atomicnicos@gmail.com).
+[![Twitter](https://img.shields.io/badge/AtomicNicos-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AtomicNicos)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-boeckh)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://atomicnicos@gmail.com)
 
 ![AtomicNicos's github stats](https://github-readme-stats.vercel.app/api?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515)
 
