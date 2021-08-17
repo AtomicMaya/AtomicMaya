@@ -11,6 +11,8 @@
 
 ## 🤖 Projects:
 
+- [Various CTF challenges for DEFCON's AppSecVillage](https://github.com/AppSecVillage/AppSecVillage.github.io)
+- [Undisclosed: Linguistic Constellation Visualisation Tool]()
 - [FTP Client/Server over TCP/IP in C](https://github.com/AtomicNicos/ftp-server-client)
 - [Undisclosed: IoT Pollution Mapping]()
 - [Undisclosed: OSINT reporting tool]()
