@@ -35,6 +35,10 @@ Find my content here: [atomicnicos.me](https://atomicnicos.me)
 - Gateway - 'OSINT & the art of Pivoting' (recording failure) (03/01/2020)
 - Leeds Ethical Hacking Society - 'Dissecting the ENISA baseline recommendations for IoT security | And why no one can be arsed to be compliant' (no recording) (21/01/2021)
 - [DefCon Worcester (DC441905) - 'Dissecting the ENISA baseline recommendations for IoT security | And why no one can be arsed to be compliant'](https://www.youtube.com/watch?v=VEkWpGB_s8c) (31/01/2021)
+- [Open Security Summit - 'Challenges in IoT Security: From infinite recommendations to a plethora of implementations'](https://www.youtube.com/watch?v=CxmfTh72MyU) (14/06/2021)
+- [3rd Annual Munich Managed Security Services Forum - Rookie Skills Transforming the Cyber Professional](https://www.youtube.com/watch?v=k-VbvBO4sKE) (15/06/2021)
+- BSides Newcastle - 'From the living room to the boss’ office: IoT (aka. The Bane of Infosec)' (waiting on recording) (10/09/2021)
+- BeerCon3 - 'JavaScript: An AppSec perspective on the multi-faceted devil that calls the Internet its home.' (not given yet) (28/10/2021)
 
 ## 🌎 Other:
 
