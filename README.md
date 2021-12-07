@@ -58,10 +58,10 @@ I'm also a manager for the underlying [Discord Community](https://discord.gg/dig
 
 ## 🏆 Various badges and other
 
-![AtomicNicos's github stats](https://github-readme-stats.vercel.app/api?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515)
+![AtomicNicos' github stats](https://github-readme-stats.vercel.app/api?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515)
 
-![AtomicNicos's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515)
+![AtomicNicos' github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515)
 
-<script src="https://tryhackme.com/badge/96282"></script>
+![AtomicNicos' TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicNicos.png)
 
 ![conintbadge](https://github.com/AtomicNicos/AtomicNicos/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png)
