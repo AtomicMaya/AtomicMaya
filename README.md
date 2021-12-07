@@ -42,9 +42,11 @@ Find my content here: [atomicnicos.me](https://atomicnicos.me)
 
 ## 🌎 Other:
 
-I'm the co-organizer and co-host of the [Digital Overdose Conference](https://digitaloverdose.tech/conference)! 
+I'm the organizer and one of the hosts of the [Digital Overdose Conference](https://digitaloverdose.tech/conference), an information security conference aimed at newcomers and rookies! 
 
 All talks of 2021 are available [here](https://www.youtube.com/playlist?list=PLUI-ug97ALy180thHUsRIt7qxFt0QVGDz).
+
+I'm also a manager for the underlying [Discord Community](https://discord.gg/digitaloverdose)
 
 ## 📫 How to reach me:
 
@@ -54,9 +56,12 @@ All talks of 2021 are available [here](https://www.youtube.com/playlist?list=PLU
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://atomicnicos@gmail.com)
 
+## 🏆 Various badges and other
+
 ![AtomicNicos's github stats](https://github-readme-stats.vercel.app/api?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515)
 
 ![AtomicNicos's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515)
 
-## 🏆 Badges:
-![conintbadge](https://github.com/AtomicNicos/AtomicNicos/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png){:height="36px" width="36px"}
+![AtomicNicos's TryHackMe stats](https://tryhackme-badges.s3.amazonaws.com/AtomicNicos.png)
+
+![conintbadge](https://github.com/AtomicNicos/AtomicNicos/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png)
