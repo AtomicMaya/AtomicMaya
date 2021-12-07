@@ -62,6 +62,6 @@ I'm also a manager for the underlying [Discord Community](https://discord.gg/dig
 
 ![AtomicNicos's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515)
 
-![AtomicNicos's TryHackMe stats](https://tryhackme-badges.s3.amazonaws.com/AtomicNicos.png)
+<script src="https://tryhackme.com/badge/96282"></script>
 
 ![conintbadge](https://github.com/AtomicNicos/AtomicNicos/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png)
