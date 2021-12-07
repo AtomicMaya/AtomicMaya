@@ -59,4 +59,4 @@ All talks of 2021 are available [here](https://www.youtube.com/playlist?list=PLU
 ![AtomicNicos's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515)
 
 ## 🏆 Badges:
-![conintbadge](https://github.com/AtomicNicos/AtomicNicos/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png)
+![conintbadge](https://github.com/AtomicNicos/AtomicNicos/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png){:height="36px" width="36px"}
