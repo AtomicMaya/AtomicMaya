@@ -15,9 +15,9 @@
 
 ## 📫 How to reach me:
 
-[<br><p align='center'> <img src="https://img.shields.io/badge/website-atomicnicos.me-green?style=for-the-badge"/>][1]
+[<p align='center'> <img src="https://img.shields.io/badge/website-atomicnicos.me-green?style=for-the-badge"/>][1]
 [<img src="https://img.shields.io/badge/email-atomicnicos@protonmail.com-orange?style=for-the-badge&logo=proton"/>][2]
-[<img src="https://img.shields.io/badge/linkedin-nicolasboeckh-blue?style=for-the-badge&logo=linkedin"/>][3]
+[<img src="https://img.shields.io/badge/linkedin-nicolas--boeckh-blue?style=for-the-badge&logo=linkedin"/>][3]
 [<img src="https://img.shields.io/badge/twitter-atomicnicos-lightblue?style=for-the-badge&logo=twitter"/>][4]
 
 ## 🧰 Languages
@@ -70,11 +70,14 @@ All talks of 2021 are available [here](https://www.youtube.com/playlist?list=PLU
 
 I'm also a manager for the underlying [Discord Community](https://discord.gg/digitaloverdose)
 
+## 🏆 GitHub Stats
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515"></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AtomicNicos&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p>
+
 ## 🏆 Various badges and other
-
-![AtomicNicos' github stats](https://github-readme-stats.vercel.app/api?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515)
-
-![AtomicNicos' github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515)
 
 ![AtomicNicos' TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicNicos.png)
 
