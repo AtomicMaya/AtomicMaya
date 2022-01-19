@@ -1,5 +1,9 @@
 # AtomicNicos
 
+![](https://komarev.com/ghpvc/?username=AtomicNicos&style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AtomicNicos?style=social)](https://twitter.com/AtomicNicos)
+[![GitHub followers](https://img.shields.io/github/followers/AtomicNicos?style=social)](https://github.com/AtomicNicos)
+
 ## 👋 Intro:
 
 - 🔭 I’m an Msc Student, a Developer and InfoSec/OSINT enthusiast.
@@ -9,9 +13,25 @@
 - 😄 Pronouns: He/They/Them
 - ⚡ Fun fact: I enjoy (chili) coffee and cheese.
 
+## 📫 How to reach me:
+
+[<br><p align='center'> <img src="https://img.shields.io/badge/website-atomicnicos.me-green?style=for-the-badge"/>][1]
+[<img src="https://img.shields.io/badge/email-atomicnicos@protonmail.com-orange?style=for-the-badge&logo=proton"/>][2]
+[<img src="https://img.shields.io/badge/linkedin-nicolasboeckh-blue?style=for-the-badge&logo=linkedin"/>][3]
+[<img src="https://img.shields.io/badge/twitter-atomicnicos-lightblue?style=for-the-badge&logo=twitter"/>][4]
+
 ## 🧰 Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Neo4J](https://img.shields.io/badge/neo4j-%231572B6.svg?style=for-the-badge&logo=neo4j&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 Learning: ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
@@ -35,10 +55,12 @@ Find my content here: [atomicnicos.me](https://atomicnicos.me)
 - Gateway - 'OSINT & the art of Pivoting' (recording failure) (03/01/2020)
 - Leeds Ethical Hacking Society - 'Dissecting the ENISA baseline recommendations for IoT security | And why no one can be arsed to be compliant' (no recording) (21/01/2021)
 - [DefCon Worcester (DC441905) - 'Dissecting the ENISA baseline recommendations for IoT security | And why no one can be arsed to be compliant'](https://www.youtube.com/watch?v=VEkWpGB_s8c) (31/01/2021)
+- conINT - '' () (recording not yet available)
 - [Open Security Summit - 'Challenges in IoT Security: From infinite recommendations to a plethora of implementations'](https://www.youtube.com/watch?v=CxmfTh72MyU) (14/06/2021)
 - [3rd Annual Munich Managed Security Services Forum - Rookie Skills Transforming the Cyber Professional](https://www.youtube.com/watch?v=k-VbvBO4sKE) (15/06/2021)
-- BSides Newcastle - 'From the living room to the boss’ office: IoT (aka. The Bane of Infosec)' (waiting on recording) (10/09/2021)
-- BeerCon3 - 'JavaScript: An AppSec perspective on the multi-faceted devil that calls the Internet its home.' (not given yet) (28/10/2021)
+- [BSides Newcastle - 'From the living room to the boss’ office: IoT (aka. The Bane of Infosec)'](https://www.youtube.com/watch?v=cwPmFck0MEw)
+- BeerCon3 - 'JavaScript: An AppSec perspective on the multi-faceted devil that calls the Internet its home.' (rerecording imminent) (28/10/2021)
+- [Open Security Summit - 'IoT: Pervasive Vulnerability, Threat Landscape and End-users'](https://www.youtube.com/watch?v=vzWft5x6cqI) (10/01/2022)
 
 ## 🌎 Other:
 
@@ -47,14 +69,6 @@ I'm the organizer and one of the hosts of the [Digital Overdose Conference](http
 All talks of 2021 are available [here](https://www.youtube.com/playlist?list=PLUI-ug97ALy180thHUsRIt7qxFt0QVGDz).
 
 I'm also a manager for the underlying [Discord Community](https://discord.gg/digitaloverdose)
-
-## 📫 How to reach me:
-
-[![Twitter](https://img.shields.io/badge/AtomicNicos-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AtomicNicos)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-boeckh)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://atomicnicos@gmail.com)
 
 ## 🏆 Various badges and other
 
@@ -65,3 +79,9 @@ I'm also a manager for the underlying [Discord Community](https://discord.gg/dig
 ![AtomicNicos' TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicNicos.png)
 
 ![conintbadge](https://github.com/AtomicNicos/AtomicNicos/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png)
+
+ [1]: https://atomicnicos.me/
+ [2]: mailto:atomicnicos@protonmail.com
+ [3]: https://www.linkedin.com/in/nicolas-boeckh/
+ [4]: https://twitter.com/AtomicNicos
+ 
