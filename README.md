@@ -6,11 +6,11 @@
 
 ## 👋 Intro:
 
+- 😄 Pronouns: **They/Them**
 - 🔭 I’m an Msc Student, a Developer and InfoSec/OSINT enthusiast.
 - 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on InfoSec, OSINT, Development and any combination thereof.
 - 💬 Ask me about Development, Development Security, IoT security and OSINT.
-- 😄 Pronouns: He/They/Them
 - ⚡ Fun fact: I enjoy (chili) coffee and cheese.
 
 ## 📫 How to reach me:
