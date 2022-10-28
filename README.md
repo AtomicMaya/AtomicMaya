@@ -1,8 +1,8 @@
-# AtomicNicos
+# AtomicMaya
 
-![](https://komarev.com/ghpvc/?username=AtomicNicos&style=flat-square)
+![](https://komarev.com/ghpvc/?username=AtomicMaya&style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AtomicNicos?style=social)](https://twitter.com/AtomicNicos)
-[![GitHub followers](https://img.shields.io/github/followers/AtomicNicos?style=social)](https://github.com/AtomicNicos)
+[![GitHub followers](https://img.shields.io/github/followers/AtomicMaya?style=social)](https://github.com/AtomicMaya)
 
 ## 👋 Intro:
 
@@ -12,13 +12,14 @@
 - 👯 I’m looking to collaborate on InfoSec, OSINT, Development and any combination thereof.
 - 💬 Ask me about Development, Development Security, IoT security and OSINT.
 - ⚡ Fun fact: I enjoy (chili) coffee and cheese.
+- 📅 Formerly known as `AtomicNicos`
 
 ## 📫 How to reach me:
 
-[<p align='center'> <img src="https://img.shields.io/badge/website-atomicnicos.me-green?style=for-the-badge"/>][1]
-[<img src="https://img.shields.io/badge/email-atomicnicos@protonmail.com-orange?style=for-the-badge&logo=proton"/>][2]
-[<img src="https://img.shields.io/badge/linkedin-nicolas--boeckh-blue?style=for-the-badge&logo=linkedin"/>][3]
-[<img src="https://img.shields.io/badge/twitter-atomicnicos-lightblue?style=for-the-badge&logo=twitter"/>][4]
+[<p align='center'> <img src="https://img.shields.io/badge/website-atomicmaya.me-green?style=for-the-badge"/>][1]
+[<img src="https://img.shields.io/badge/email-atomicmaya@pm.me-orange?style=for-the-badge&logo=proton"/>][2]
+[<img src="https://img.shields.io/badge/linkedin-nicolas--boeckh-blue?style=for-the-badge&logo=linkedin"/>][3] (yay deadname!)
+[<img src="https://img.shields.io/badge/twitter-atomicnicos-lightblue?style=for-the-badge&logo=twitter"/>][4] (yay deadalt!)
 
 ## 🧰 Languages
 
@@ -46,21 +47,21 @@ Learning: ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badg
 
 ## 📝 Blog: 
 
-Find my content here: [atomicnicos.me](https://atomicnicos.me)
+Find my content here: [atomicmaya.me](https://atomicmaya.me)
 
 ## 🎙 Talks:
 
-- [BeerCon2 - 'Securely storing and transmitting information on mobile/IoT devices: A story in development'](https://www.youtube.com/watch?v=o1absxAzRjY) (27/10/2020)
-- [BSides Islamabad - 'Securely storing and transmitting information on mobile/IoT devices: A story in development'](https://www.youtube.com/watch?v=r_HI33QOMkc) (07/11/2020)
-- Gateway - 'OSINT & the art of Pivoting' (recording failure) (03/01/2020)
-- Leeds Ethical Hacking Society - 'Dissecting the ENISA baseline recommendations for IoT security | And why no one can be arsed to be compliant' (no recording) (21/01/2021)
-- [DefCon Worcester (DC441905) - 'Dissecting the ENISA baseline recommendations for IoT security | And why no one can be arsed to be compliant'](https://www.youtube.com/watch?v=VEkWpGB_s8c) (31/01/2021)
-- conINT - '' () (recording not yet available)
-- [Open Security Summit - 'Challenges in IoT Security: From infinite recommendations to a plethora of implementations'](https://www.youtube.com/watch?v=CxmfTh72MyU) (14/06/2021)
-- [3rd Annual Munich Managed Security Services Forum - Rookie Skills Transforming the Cyber Professional](https://www.youtube.com/watch?v=k-VbvBO4sKE) (15/06/2021)
-- [BSides Newcastle - 'From the living room to the boss’ office: IoT (aka. The Bane of Infosec)'](https://www.youtube.com/watch?v=cwPmFck0MEw)
-- BeerCon3 - 'JavaScript: An AppSec perspective on the multi-faceted devil that calls the Internet its home.' (rerecording imminent) (28/10/2021)
-- [Open Security Summit - 'IoT: Pervasive Vulnerability, Threat Landscape and End-users'](https://www.youtube.com/watch?v=vzWft5x6cqI) (10/01/2022)
+- [BeerCon2 - 'Securely storing and transmitting information on mobile/IoT devices: A story in development'](https://www.youtube.com/watch?v=o1absxAzRjY) (27/10/2020) (as AtomicNicos)
+- [BSides Islamabad - 'Securely storing and transmitting information on mobile/IoT devices: A story in development'](https://www.youtube.com/watch?v=r_HI33QOMkc) (07/11/2020) (as AtomicNicos)
+- Gateway - 'OSINT & the art of Pivoting' (recording failure) (03/01/2020) (as AtomicNicos)
+- Leeds Ethical Hacking Society - 'Dissecting the ENISA baseline recommendations for IoT security | And why no one can be arsed to be compliant' (no recording) (21/01/2021) (as AtomicNicos)
+- [DefCon Worcester (DC441905) - 'Dissecting the ENISA baseline recommendations for IoT security | And why no one can be arsed to be compliant'](https://www.youtube.com/watch?v=VEkWpGB_s8c) (31/01/2021) (as AtomicNicos)
+- conINT - '' () (recording not yet available) (as AtomicNicos)
+- [Open Security Summit - 'Challenges in IoT Security: From infinite recommendations to a plethora of implementations'](https://www.youtube.com/watch?v=CxmfTh72MyU) (14/06/2021) (as AtomicNicos)
+- [3rd Annual Munich Managed Security Services Forum - Rookie Skills Transforming the Cyber Professional](https://www.youtube.com/watch?v=k-VbvBO4sKE) (15/06/2021) (as AtomicNicos)
+- [BSides Newcastle - 'From the living room to the boss’ office: IoT (aka. The Bane of Infosec)'](https://www.youtube.com/watch?v=cwPmFck0MEw) (as AtomicNicos)
+- BeerCon3 - 'JavaScript: An AppSec perspective on the multi-faceted devil that calls the Internet its home.' (rerecording imminent) (28/10/2021) (as AtomicNicos)
+- [Open Security Summit - 'IoT: Pervasive Vulnerability, Threat Landscape and End-users'](https://www.youtube.com/watch?v=vzWft5x6cqI) (10/01/2022) (as AtomicNicos)
 
 ## 🌎 Other:
 
@@ -72,14 +73,14 @@ I'm also a manager for the underlying [Discord Community](https://discord.gg/dig
 
 ## 🏆 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicNicos&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AtomicMaya&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicMaya&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515"></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AtomicNicos&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AtomicMaya&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p>
 
 ## 🏆 Various badges and other
 
-![AtomicNicos' TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicNicos.png)
+![AtomicMaya' TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicNicos.png)
 
 ![conintbadge](https://github.com/AtomicNicos/AtomicNicos/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png)
 
