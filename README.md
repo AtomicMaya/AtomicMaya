@@ -1,7 +1,7 @@
 # AtomicMaya
 
 ![](https://komarev.com/ghpvc/?username=AtomicMaya&style=flat-square)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AtomicNicos?style=social)](https://twitter.com/AtomicNicos)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Atomic_Maya?style=social)](https://twitter.com/Atomic_Maya)
 [![GitHub followers](https://img.shields.io/github/followers/AtomicMaya?style=social)](https://github.com/AtomicMaya)
 
 ## 👋 Intro:
@@ -18,8 +18,7 @@
 
 [<p align='center'> <img src="https://img.shields.io/badge/website-atomicmaya.me-green?style=for-the-badge"/>][1]
 [<img src="https://img.shields.io/badge/email-atomicmaya@pm.me-orange?style=for-the-badge&logo=proton"/>][2]
-[<img src="https://img.shields.io/badge/linkedin-nicolas--boeckh-blue?style=for-the-badge&logo=linkedin"/>][3] (yay deadname!)
-[<img src="https://img.shields.io/badge/twitter-atomicnicos-lightblue?style=for-the-badge&logo=twitter"/>][4] (yay deadalt!)
+[<img src="https://img.shields.io/badge/twitter-atomic_maya-lightblue?style=for-the-badge&logo=twitter"/>][4]
 
 ## 🧰 Languages
 
@@ -84,8 +83,8 @@ I'm also a manager for the underlying [Discord Community](https://discord.gg/dig
 
 ![conintbadge](https://github.com/AtomicNicos/AtomicNicos/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png)
 
- [1]: https://atomicnicos.me/
- [2]: mailto:atomicnicos@protonmail.com
- [3]: https://www.linkedin.com/in/nicolas-boeckh/
- [4]: https://twitter.com/AtomicNicos
+ [1]: https://atomicmaya.me/
+ [2]: mailto:atomicmaya@protonmail.com
+ 
+ [4]: https://twitter.com/Atomic_Maya
  
