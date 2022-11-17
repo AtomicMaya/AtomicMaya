@@ -1,7 +1,8 @@
 # AtomicMaya
 
 ![](https://komarev.com/ghpvc/?username=AtomicMaya&style=flat-square)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Atomic_Maya?style=social)](https://twitter.com/Atomic_Maya)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AtomicMaya_?style=social)](https://twitter.com/AtomicMaya_)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109240206564464426?domain=https%3A%2F%2Ftech.lgbt&style=social)
 [![GitHub followers](https://img.shields.io/github/followers/AtomicMaya?style=social)](https://github.com/AtomicMaya)
 
 ## 👋 Intro:
@@ -32,8 +33,9 @@
 ![Flutter](https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/neo4j-%231572B6.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-Learning: ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+ 
+Learning: ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## 🤖 Projects:
 
@@ -61,6 +63,7 @@ Find my content here: [atomicmaya.me](https://atomicmaya.me)
 - [BSides Newcastle - 'From the living room to the boss’ office: IoT (aka. The Bane of Infosec)'](https://www.youtube.com/watch?v=cwPmFck0MEw) (as AtomicNicos)
 - BeerCon3 - 'JavaScript: An AppSec perspective on the multi-faceted devil that calls the Internet its home.' (rerecording imminent) (28/10/2021) (as AtomicNicos)
 - [Open Security Summit - 'IoT: Pervasive Vulnerability, Threat Landscape and End-users'](https://www.youtube.com/watch?v=vzWft5x6cqI) (10/01/2022) (as AtomicNicos)
+- [Beercon4 - 'You're having Fun at Cons, I have fun Building and Staffing them!'](https://www.youtube.com/watch?v=HZYw1NbXqQw)
 
 ## 🌎 Other:
 
@@ -79,12 +82,7 @@ I'm also a manager for the underlying [Discord Community](https://discord.gg/dig
 
 ## 🏆 Various badges and other
 
-![AtomicMaya' TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicNicos.png)
+![AtomicMaya's TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicNicos.png)
 
-![conintbadge](https://github.com/AtomicNicos/AtomicNicos/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png)
-
- [1]: https://atomicmaya.me/
- [2]: mailto:atomicmaya@protonmail.com
- 
- [4]: https://twitter.com/Atomic_Maya
+![conintbadge](https://github.com/AtomicMaya/AtomicMaya/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png)
  
