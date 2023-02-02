@@ -49,22 +49,7 @@ Learning: ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-
 ## 📝 Blog: 
 
 Find my content here: [atomicmaya.me](https://atomicmaya.me)
-
-## 🎙 Talks:
-
-- [BeerCon2 - 'Securely storing and transmitting information on mobile/IoT devices: A story in development'](https://www.youtube.com/watch?v=o1absxAzRjY) (27/10/2020) (as AtomicNicos)
-- [BSides Islamabad - 'Securely storing and transmitting information on mobile/IoT devices: A story in development'](https://www.youtube.com/watch?v=r_HI33QOMkc) (07/11/2020) (as AtomicNicos)
-- Gateway - 'OSINT & the art of Pivoting' (recording failure) (03/01/2020) (as AtomicNicos)
-- Leeds Ethical Hacking Society - 'Dissecting the ENISA baseline recommendations for IoT security | And why no one can be arsed to be compliant' (no recording) (21/01/2021) (as AtomicNicos)
-- [DefCon Worcester (DC441905) - 'Dissecting the ENISA baseline recommendations for IoT security | And why no one can be arsed to be compliant'](https://www.youtube.com/watch?v=VEkWpGB_s8c) (31/01/2021) (as AtomicNicos)
-- conINT - '' () (recording not yet available) (as AtomicNicos)
-- [Open Security Summit - 'Challenges in IoT Security: From infinite recommendations to a plethora of implementations'](https://www.youtube.com/watch?v=CxmfTh72MyU) (14/06/2021) (as AtomicNicos)
-- [3rd Annual Munich Managed Security Services Forum - Rookie Skills Transforming the Cyber Professional](https://www.youtube.com/watch?v=k-VbvBO4sKE) (15/06/2021) (as AtomicNicos)
-- [BSides Newcastle - 'From the living room to the boss’ office: IoT (aka. The Bane of Infosec)'](https://www.youtube.com/watch?v=cwPmFck0MEw) (as AtomicNicos)
-- BeerCon3 - 'JavaScript: An AppSec perspective on the multi-faceted devil that calls the Internet its home.' (rerecording imminent) (28/10/2021) (as AtomicNicos)
-- [Open Security Summit - 'IoT: Pervasive Vulnerability, Threat Landscape and End-users'](https://www.youtube.com/watch?v=vzWft5x6cqI) (10/01/2022) (as AtomicNicos)
-- [Beercon4 - 'You're having Fun at Cons, I have fun Building and Staffing them!'](https://www.youtube.com/watch?v=HZYw1NbXqQw)
-
+ 
 ## 🌎 Other:
 
 I'm the organizer and one of the hosts of the [Digital Overdose Conference](https://digitaloverdose.tech/conference), an information security conference aimed at newcomers and rookies! 
