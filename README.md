@@ -13,13 +13,12 @@
 - 👯 I’m looking to collaborate on InfoSec, OSINT, Development and any combination thereof.
 - 💬 Ask me about Development, Development Security, IoT security and OSINT.
 - ⚡ Fun fact: I enjoy (chili) coffee and cheese.
-- 📅 Formerly known as `AtomicNicos`
 
 ## 📫 How to reach me:
 
-[<p align='center'> <img src="https://img.shields.io/badge/website-atomicmaya.me-green?style=for-the-badge"/>][1]
-[<img src="https://img.shields.io/badge/email-atomicmaya@pm.me-orange?style=for-the-badge&logo=proton"/>][2]
-[<img src="https://img.shields.io/badge/twitter-atomic_maya-lightblue?style=for-the-badge&logo=twitter"/>][4]
+![](https://img.shields.io/badge/website-atomicmaya.me-green?style=for-the-badge)
+![](https://img.shields.io/badge/email-atomicmaya@pm.me-orange?style=for-the-badge&logo=proton)
+![](https://img.shields.io/badge/twitter-atomic_maya-lightblue?style=for-the-badge&logo=twitter)
 
 ## 🧰 Languages
 
@@ -67,7 +66,7 @@ I'm also a manager for the underlying [Discord Community](https://discord.gg/dig
 
 ## 🏆 Various badges and other
 
-![AtomicMaya's TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicNicos.png)
+![AtomicMaya's TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicMaya.png)
 
 ![conintbadge](https://github.com/AtomicMaya/AtomicMaya/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png)
  
