@@ -8,7 +8,7 @@
 ## 👋 Intro:
 
 - 😄 Pronouns: **They/Them**
-- 🔭 I’m an Msc Student, a Developer and InfoSec/OSINT enthusiast.
+- 🔭 I'm an InfoSec and OSINT practitioner and a developer.
 - 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on InfoSec, OSINT, Development and any combination thereof.
 - 💬 Ask me about Development, Development Security, IoT security and OSINT.
