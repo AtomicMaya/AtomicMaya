@@ -7,18 +7,18 @@
 
 ## 👋 Intro:
 
-- 😄 Pronouns: **They/Them**
-- 🔭 I'm an InfoSec and OSINT practitioner and a developer.
-- 🌱 I’m currently learning Go.
+- 😄 Pronouns: **They/She** 🏳️‍⚧️🏳️‍🌈
+- 🔭 I'm an InfoSec and OSINT practitioner, as well as a developer.
+- 🌱 I’m currently improving in Rust.
 - 👯 I’m looking to collaborate on InfoSec, OSINT, Development and any combination thereof.
-- 💬 Ask me about Development, Development Security, IoT security and OSINT.
+- 💬 Ask me about Development, Application Security, IoT security and OSINT.
 - ⚡ Fun fact: I enjoy (chili) coffee and cheese.
 
 ## 📫 How to reach me:
 
 ![](https://img.shields.io/badge/website-atomicmaya.me-green?style=for-the-badge)
 ![](https://img.shields.io/badge/email-atomicmaya@pm.me-orange?style=for-the-badge&logo=proton)
-![](https://img.shields.io/badge/twitter-atomic_maya-lightblue?style=for-the-badge&logo=twitter)
+![](https://img.shields.io/badge/twitter-atomicmaya_-lightblue?style=for-the-badge&logo=twitter)
 
 ## 🧰 Languages
 
@@ -40,10 +40,10 @@ Learning: ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-
 
 - [Various CTF challenges for DEFCON's AppSecVillage](https://github.com/AppSecVillage/AppSecVillage.github.io)
 - [Undisclosed: Linguistic Constellation Visualisation Tool]()
-- [FTP Client/Server over TCP/IP in C](https://github.com/AtomicNicos/ftp-server-client)
+- [FTP Client/Server over TCP/IP in C](https://github.com/AtomicMaya/ftp-server-client)
 - [Undisclosed: IoT Pollution Mapping]()
 - [Undisclosed: OSINT reporting tool]()
-- [Physics + Bike Game in Java](https://github.com/AtomicNicos/BikeGame)
+- [Physics + Bike Game in Java](https://github.com/AtomicMaya/BikeGame)
 
 ## 📝 Blog: 
 
