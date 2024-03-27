@@ -7,7 +7,7 @@
 
 ## 👋 Intro:
 
-- 😄 Pronouns: **They/She** 🏳️‍⚧️🏳️‍🌈
+- 😄 Pronouns: **She/They** 🏳️‍⚧️🏳️‍🌈
 - 🔭 I'm an InfoSec and OSINT practitioner, as well as a developer.
 - 🌱 I’m currently improving in Rust.
 - 👯 I’m looking to collaborate on InfoSec, OSINT, Development and any combination thereof.
