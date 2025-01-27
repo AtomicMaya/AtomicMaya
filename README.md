@@ -1,24 +1,22 @@
 # AtomicMaya
 
 ![](https://komarev.com/ghpvc/?username=AtomicMaya&style=flat-square)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AtomicMaya_?style=social)](https://twitter.com/AtomicMaya_)
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109240206564464426?domain=https%3A%2F%2Ftech.lgbt&style=social)
 [![GitHub followers](https://img.shields.io/github/followers/AtomicMaya?style=social)](https://github.com/AtomicMaya)
 
 ## 👋 Intro:
 
 - 😄 Pronouns: **She/They** 🏳️‍⚧️🏳️‍🌈
-- 🔭 I'm an InfoSec and OSINT practitioner, as well as a developer.
-- 🌱 I’m currently improving in Rust.
-- 👯 I’m looking to collaborate on InfoSec, OSINT, Development and any combination thereof.
-- 💬 Ask me about Development, Application Security, IoT security and OSINT.
-- ⚡ Fun fact: I enjoy (chili) coffee and cheese.
+- 🔭 i write code and do information security
+- 🌱 i vaguely try and run personal home/distributed cloud services
+- 👯 occasional public speaker, mentor, habitual conference volunteer (mainly NOC or A/V)
 
 ## 📫 How to reach me:
 
+[DM me on Fedi!](https://tech.lgbt/@AtomicMaya)
+
 ![](https://img.shields.io/badge/website-atomicmaya.me-green?style=for-the-badge)
-![](https://img.shields.io/badge/email-atomicmaya@pm.me-orange?style=for-the-badge&logo=proton)
-![](https://img.shields.io/badge/twitter-atomicmaya_-lightblue?style=for-the-badge&logo=twitter)
+![](https://img.shields.io/badge/email-contact@atomicmaya.me-orange?style=for-the-badge&logo=proton)
 
 ## 🧰 Languages
 
@@ -33,16 +31,15 @@
 ![Neo4J](https://img.shields.io/badge/neo4j-%231572B6.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
- 
-Learning: ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+Learning: ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
 ## 🤖 Projects:
 
+- [NeoRail](https://github.com/NeoRail)
 - [Various CTF challenges for DEFCON's AppSecVillage](https://github.com/AppSecVillage/AppSecVillage.github.io)
-- [Undisclosed: Linguistic Constellation Visualisation Tool]()
 - [FTP Client/Server over TCP/IP in C](https://github.com/AtomicMaya/ftp-server-client)
-- [Undisclosed: IoT Pollution Mapping]()
-- [Undisclosed: OSINT reporting tool]()
 - [Physics + Bike Game in Java](https://github.com/AtomicMaya/BikeGame)
 
 ## 📝 Blog: 
@@ -51,9 +48,7 @@ Find my content here: [atomicmaya.me](https://atomicmaya.me)
  
 ## 🌎 Other:
 
-I'm the organizer and one of the hosts of the [Digital Overdose Conference](https://digitaloverdose.tech/conference), an information security conference aimed at newcomers and rookies! 
-
-All talks of 2021 are available [here](https://www.youtube.com/playlist?list=PLUI-ug97ALy180thHUsRIt7qxFt0QVGDz).
+I was the organizer and one of the hosts of the [Digital Overdose Conference](https://digitaloverdose.tech/conference), an information security conference aimed at newcomers and rookies! 
 
 I'm also a manager for the underlying [Discord Community](https://discord.gg/digitaloverdose)
 
@@ -67,6 +62,3 @@ I'm also a manager for the underlying [Discord Community](https://discord.gg/dig
 ## 🏆 Various badges and other
 
 ![AtomicMaya's TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicMaya.png)
-
-![conintbadge](https://github.com/AtomicMaya/AtomicMaya/blob/main/assertion-D6eDo8KHS7mw9kpn0nnMxA.png)
- 
