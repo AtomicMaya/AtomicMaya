@@ -1,8 +1,9 @@
-# AtomicMaya
+# maya (aka. AtomicMaya)
 
-![](https://komarev.com/ghpvc/?username=AtomicMaya&style=flat-square)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109240206564464426?domain=https%3A%2F%2Ftech.lgbt&style=social)
-[![GitHub followers](https://img.shields.io/github/followers/AtomicMaya?style=social)](https://github.com/AtomicMaya)
+[![Fedi](https://img.shields.io/badge/on%20GitHub-AtomicMaya-white?style=social)](https://github.com/@AtomicMaya) ![](https://komarev.com/ghpvc/?username=AtomicMaya&style=flat-square) [![GitHub followers](https://img.shields.io/github/followers/AtomicMaya?style=social)](https://github.com/AtomicMaya)
+
+[![Fedi](https://img.shields.io/badge/On%20the%20Fediverse-catgirl.global/@maya-blue?style=social)](https://catgirl.global/@maya)
+
 
 ## 👋 Intro:
 
@@ -13,7 +14,7 @@
 
 ## 📫 How to reach me:
 
-[DM me on Fedi!](https://tech.lgbt/@AtomicMaya)
+[DM me on Fedi!](https://catgirl.global/@maya)
 
 ![](https://img.shields.io/badge/website-atomicmaya.me-green?style=for-the-badge)
 ![](https://img.shields.io/badge/email-contact@atomicmaya.me-orange?style=for-the-badge&logo=proton)
