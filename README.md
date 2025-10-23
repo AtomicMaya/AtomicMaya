@@ -7,7 +7,7 @@
 
 ## 👋 Intro:
 
-- 😄 Pronouns: **She/They** 🏳️‍⚧️🏳️‍🌈
+- 😄 Pronouns: **She/It** 🏳️‍⚧️🏳️‍🌈
 - 🔭 i write code and do information security
 - 🌱 i vaguely try and run personal home/distributed cloud services
 - 👯 occasional public speaker, mentor, habitual conference volunteer (mainly NOC or A/V)
