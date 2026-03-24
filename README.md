@@ -7,9 +7,9 @@
 
 ## 👋 Intro:
 
-- 😄 Pronouns: **She/It** 🏳️‍⚧️🏳️‍🌈
+- 😄 **She/It** 🏳️‍⚧️🏳️‍🌈
 - 🔭 i write code and do information security
-- 🌱 i vaguely try and run personal home/distributed cloud services
+- 🌱 i run personal home/distributed cloud services
 - 👯 occasional public speaker, mentor, habitual conference volunteer (mainly NOC or A/V)
 
 ## 📫 How to reach me:
@@ -18,6 +18,16 @@
 
 ![](https://img.shields.io/badge/website-atomicmaya.me-green?style=for-the-badge)
 ![](https://img.shields.io/badge/email-contact@atomicmaya.me-orange?style=for-the-badge&logo=proton)
+
+## 📝 Blog: 
+
+Find my content here: [atomicmaya.me](https://atomicmaya.me)
+ 
+## 🌎 Other:
+
+I was the organizer and one of the hosts of the [Digital Overdose Conference](https://digitaloverdose.tech/conference), an information security conference aimed at newcomers and rookies! 
+
+I'm also a manager for the underlying [Discord Community](https://discord.gg/digitaloverdose)
 
 ## 🧰 Languages
 
@@ -33,25 +43,9 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
 
-Learning: ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-
-## 🤖 Projects:
-
-- [NeoRail](https://github.com/NeoRail)
-- [Various CTF challenges for DEFCON's AppSecVillage](https://github.com/AppSecVillage/AppSecVillage.github.io)
-- [FTP Client/Server over TCP/IP in C](https://github.com/AtomicMaya/ftp-server-client)
-- [Physics + Bike Game in Java](https://github.com/AtomicMaya/BikeGame)
-
-## 📝 Blog: 
-
-Find my content here: [atomicmaya.me](https://atomicmaya.me)
- 
-## 🌎 Other:
-
-I was the organizer and one of the hosts of the [Digital Overdose Conference](https://digitaloverdose.tech/conference), an information security conference aimed at newcomers and rookies! 
-
-I'm also a manager for the underlying [Discord Community](https://discord.gg/digitaloverdose)
+Learning: ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
 ## 🏆 GitHub Stats
 
@@ -59,7 +53,3 @@ I'm also a manager for the underlying [Discord Community](https://discord.gg/dig
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicMaya&show_icons=true&title_color=ab20fd&icon_color=39ff14&text_color=2D96FF&bg_color=151515"></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AtomicMaya&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p>
-
-## 🏆 Various badges and other
-
-![AtomicMaya's TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicMaya.png)
